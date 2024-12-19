@@ -13,7 +13,7 @@ An intelligent book creation tool that uses GPT-4o and Perplexity AI to automati
 ## ❤️ Support & Get 400+ AI Projects
 
 This is one of 400+ fascinating projects in my collection! **[Support me on Patreon](https://www.patreon.com/c/echohive42/membership)** to get:
-- 🎯 Access to 400+ AI projects (and growing weekly!)
+- 🎯 Access to 400+ AI projects (and growing daily!)
 - 📥 Full source code & detailed explanations
 - 📚 1000x Cursor Course
 - 🎓 Live coding sessions & AMAs
