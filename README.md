@@ -10,6 +10,16 @@ An intelligent book creation tool that uses GPT-4O and Perplexity AI to automati
 - **Real-time Progress Updates**: Colorful console output showing progress
 - **Beautiful Markdown Output**: Final book is formatted in clean, readable markdown
 
+## ❤️ Support & Get 400+ AI Projects
+
+This is one of 400+ fascinating projects in my collection! **[Support me on Patreon](https://www.patreon.com/c/echohive42/membership)** to get:
+- 🎯 Access to 400+ AI projects (and growing weekly!)
+- 📥 Full source code & detailed explanations
+- 📚 1000x Cursor Course
+- 🎓 Live coding sessions & AMAs
+- 💬 1-on-1 consultations (higher tiers)
+- 🎁 Exclusive discounts on AI tools
+
 ## 🔧 Prerequisites
 
 - Python 3.7+
@@ -143,3 +153,44 @@ The script includes comprehensive error handling:
 ## 🔒 API Key Security
 
 Always use environment variables for API keys. Never hardcode them in the script. 
+
+## 🤝 Support & Premium Access
+
+If you find this tool useful, consider supporting me on [Patreon](https://www.patreon.com/c/echohive42/membership). Your support helps maintain and improve this and other AI tools!
+
+### 🌟 Patreon Tiers
+
+1. **AI Connoisseur ($30/month)**
+   - Download code for most projects
+   - Access to 1000x Cursor Course
+   - Email support for simple questions
+   - Exclusive perks:
+     - $40 discount for boringlaunch.com
+     - $10 discount for ninjachat.ai
+   - Access to exclusive videos and blog posts
+
+2. **AI Architect ($50/month)**
+   - **Full code access** to all projects
+   - Access to 1000x Cursor Course
+   - Exclusive AMA and live coding meetings
+   - Free usage of echohive webapps
+   - Enhanced perks:
+     - $100 discount for manaflow.ai
+     - $70 discount for boringlaunch.com
+   - All benefits from previous tier
+
+3. **AI Virtuoso 1-on-1 ($150/month)**
+   - One hour monthly 1-on-1 consultation
+   - Personal coding help and guidance
+   - Direct project support
+   - All benefits from previous tiers
+   - Limited availability (1 spot remaining)
+
+4. **AI Prodigy 1-on-1 ($450/month)**
+   - Three hours monthly 1-on-1 consultation
+   - Intensive personal tutoring
+   - Comprehensive project support
+   - All benefits from previous tiers
+   - Currently sold out
+
+Join our community and accelerate your AI development journey! 🚀
