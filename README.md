@@ -1,6 +1,6 @@
 # 📚 AI Book Maker
 
-An intelligent book creation tool that uses GPT-4O and Perplexity AI to automatically generate well-researched, structured books on any topic.
+An intelligent book creation tool that uses GPT-4o and Perplexity AI to automatically generate well-researched, structured books on any topic.
 
 ## 🌟 Features
 
